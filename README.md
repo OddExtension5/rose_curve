@@ -37,8 +37,9 @@ A rose with k = 1/3 is a limaçon trisectrix that has the property of trisectrix
 
 #### The limaçon trisectrix, k = 1/3 (n=1,d=3), has one petal with two loops
 ![qwe](https://upload.wikimedia.org/wikipedia/commons/b/bd/Rose_Curve_animation_with_Gears_n1_d3.gif)
+
 #### The trifolium, k = 3 (n = 3, d = 1). The rose is complete when θ = π is reached.
-![img345](https://upload.wikimedia.org/wikipedia/commons/f/f7/Rose_Curve_animation_with_Gears_n3_d1.gif)
+![im45](https://upload.wikimedia.org/wikipedia/commons/f/f7/Rose_Curve_animation_with_Gears_n3_d1.gif)
 
 #### The 8 petals of the rose with k = 4/5 (n = 4, d = 5) is each, a single loop that intersect other petals.
-![imgshw](https://upload.wikimedia.org/wikipedia/commons/d/d9/Rose_Curve_animation_with_Gears_n4_d5.gif)
+![im](https://upload.wikimedia.org/wikipedia/commons/d/d9/Rose_Curve_animation_with_Gears_n4_d5.gif)
